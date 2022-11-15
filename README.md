@@ -1,5 +1,5 @@
 
-<a href="https://discord.com/users/315722072028348418">
+[<a href="https://discord.com/users/315722072028348418">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/315722072028348418.png" />
 </a>](https://discord.c99.nl/widget/theme-4/315722072028348418.png)
 
